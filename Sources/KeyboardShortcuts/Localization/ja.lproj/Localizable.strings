@@ -1,0 +1,5 @@
+"record_shortcut" = "ショートカットを記録";
+"press_shortcut" = "ショートカットを押す";
+"keyboard_shortcut_used_by_menu_item" = "このキーボードショートカットは、「%@」というメニュー項目で既に使用されているため、使用できません。";
+"keyboard_shortcut_used_by_system" = "このキーボードショートカットは、システム全体のキーボードショートカットとして使用されているため、使用できません。";
+"keyboard_shortcuts_can_be_changed" = "システム全体のキーボードショートカットのほとんどは、「システム環境設定 › キーボード › ショートカット」から変更できます。";
